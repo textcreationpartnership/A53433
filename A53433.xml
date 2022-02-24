@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of agreement, made concluded, and agreed on, at Dublin, the eighteenth day of Iune, 1647. By and between the most Honorable Iames Lord Marques of Ormonde, of the one part; and Arthur Annesley Esquire, Sir Robert King knight, Sir Robert Meredith knight, Colonell Iohn Moore, and Colonell Michael Iones, commissioners from the Parliament of England, on the other part. Published by authority and command of the commissioners from the Parliament of England.</title>
+            <title>Treaties, etc. England and Wales, 1647-06-18</title>
+            <author>Ireland. Lord Lieutenant (1641-1649 : Ormonde)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53433</idno>
+            <idno type="STC">Wing O437A</idno>
+            <idno type="STC">ESTC R222616</idno>
+            <idno type="EEBO-CITATION">99833769</idno>
+            <idno type="PROQUEST">99833769</idno>
+            <idno type="VID">38247</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53433)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38247)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1784:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of agreement, made concluded, and agreed on, at Dublin, the eighteenth day of Iune, 1647. By and between the most Honorable Iames Lord Marques of Ormonde, of the one part; and Arthur Annesley Esquire, Sir Robert King knight, Sir Robert Meredith knight, Colonell Iohn Moore, and Colonell Michael Iones, commissioners from the Parliament of England, on the other part. Published by authority and command of the commissioners from the Parliament of England.</title>
+                  <title>Treaties, etc. England and Wales, 1647-06-18</title>
+                  <author>Ireland. Lord Lieutenant (1641-1649 : Ormonde)</author>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+                  <author>England and Wales. Treaties, etc. Ireland, 1647-06-18.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by VVilliam Bladen, printer to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>anno Dom. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38247:1" rendition="simple:additions"/>
+            <p>ARTICLES OF AGREEMENT, Made Concluded and agreed on, at <hi>Dublin,</hi> the eighteenth day of <hi>Iune,</hi> 1647.</p>
+            <p>By and between the moſt Honorable <hi>Iames</hi> Lord Marques of <hi>Ormonde,</hi> of the one Part; AND, <hi>Arthur Anneſley</hi> Eſquire, Sir <hi>Robert King</hi> Knight, Sir <hi>Robert Meredith</hi> Knight, Colonell <hi>Iohn Moore,</hi> and Colonell <hi>Michael Iones,</hi> Commiſſioners from the PARLIAMENT of ENGLAND, on the other Part.</p>
+            <p>¶ Publiſhed by authority and command of the Commiſsioners from the Parliament of England.</p>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Printed by <hi>VVilliam Bladen,</hi> Printer to the Kings moſt Excellent Majeſty, <hi>Anno Dom.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="articles">
+            <pb facs="tcp:38247:2" rendition="simple:additions"/>
+            <pb facs="tcp:38247:2"/>
+            <head>ARTICLES of Agreement made concluded &amp; agreed on, at <hi>Dub<g ref="char:EOLhyphen"/>lin,</hi> the Eighteenth day of <hi>Iune,</hi> 1647. By and between the moſt Honorable <hi>Iames</hi> Lord Marques of <hi>Ormonde,</hi> of the one part; And <hi>Arthur Anneſley,</hi> Eſquire, Sir <hi>Robert King,</hi> Knight, Sir <hi>Robert Meredith,</hi> Knight, Colonell <hi>Iohn Moore,</hi> and Colonell <hi>Michael Iones,</hi> Com<g ref="char:EOLhyphen"/>miſſioners from the PARLIAMENT of ENGLAND, on the other Part.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Irſt it is agreed, and concluded, and the ſaid Lord Marqueſſe of <hi>Ormonde</hi> doth conclude, agree, and undertake, to and with the ſaid <hi>Arthur Anneſley</hi> Eſquire, Sir <hi>Robert King,</hi> Sir <hi>Robert Meredith</hi> Knights, Colonell <hi>Iohn Moore,</hi> and Colonell <hi>Michaell Iones,</hi> That upon the nineteenth day of this moneth of <hi>Iune,</hi> he will leave or cauſe to be left in the poſſeſſion
+<pb n="2" facs="tcp:38247:3"/>of the ſaid <hi>Arthur Anneſley</hi> Eſquire, Sir <hi>Robert King</hi> Sir <hi>Robert Meredith</hi> Knights,, Colonell <hi>Iohn Moore,</hi> and Colonell <hi>Michaell Iones</hi> the Ci<g ref="char:EOLhyphen"/>tie of <hi>Dublin,</hi> and all the reſt of the places, and Garriſons in his power and under his Com<g ref="char:EOLhyphen"/>mand, And the Ordnance Artillery, Amuni<g ref="char:EOLunhyphen"/>cion, Magazines, and Stores there, And like<g ref="char:EOLhyphen"/>wiſe it is further agreed, and concluded, and the ſaid Lord Marqueſſe of <hi>Ormond,</hi> doth con<g ref="char:EOLhyphen"/>clude, agree, and undertake that upon the 28. of <hi>Iuly</hi> next, he will leave, or cauſe to be left, in the poſſeſsion of the ſaid <hi>Arthur Anneſley</hi> Eſquire, Sir <hi>Robert King,</hi> Sir <hi>Robert Meredith</hi> Knights. Colonell <hi>Iohn Moore</hi> and Colonell <hi>Michael Iones,</hi> or any foure of them, the Sword and all other Enſignes of Royalty, with all o<g ref="char:EOLhyphen"/>ther things belonging to the Lord Lievtenant or Leivtenancy of the Kingdome of <hi>Ireland,</hi> that ſhall be demanded before the ſaid twen<g ref="char:EOLhyphen"/>ty eight day of <hi>Iuly,</hi> and that in the mean time he will not intermeddle, or take upon him to Command in any of the ſaid Garriſons, or Places.</p>
+            <pb n="3" facs="tcp:38247:3"/>
+            <p n="2">2. <hi>Item</hi> It is agreed, and concluded, and the ſaid <hi>Arthur Anneſley</hi> Eſquire, Sir <hi>Robert King</hi> Sir <hi>Robert Meredith</hi> Knights, Colonell <hi>Iohn Moore</hi> and Colonell <hi>Michaell Iones,</hi> do, for, and in behalfe of the Parliament of <hi>England,</hi> con<g ref="char:EOLhyphen"/>clude, agree, and undertake, to, and with the ſaid Lord Marqueſſe of <hi>Ormonde,</hi> in the behalf of himſelfe, and others, his Majeſties Subjects that all Proteſtants whatſoever of the King<g ref="char:EOLhyphen"/>dome of <hi>Ireland,</hi> not having been in the Iriſh Rebellion, though they have of late conſented or ſubmitted, either to the Ceſſation of Armes or the Peace concluded with the Iriſh Rebells, ſhall be ſecured in their Perſons, Eſtates and Goods, that they have in <hi>Ireland,</hi> and that they may live quietly, and ſecurely, under the Pro<g ref="char:EOLhyphen"/>tection of the ſaid Parliament and their Forces either within <hi>England, Ireland,</hi> or <hi>VVales,</hi> and that they ſhall injoy thoſe their Eſtates, and Goods, without any moleſtation, or queſtion from the ſaid Parliament, as any others doe who have not offended the ſaid Parliament They ſubmitting to all ſuch Ordinances of
+<pb n="4" facs="tcp:38247:4"/>Parliament, made or to be made, as all others doe ſubmitt unto, who have never offended the Parliament.</p>
+            <p n="3">3. <hi>Item</hi> It is further agreed, and concluded, and the ſaid <hi>Arthur Anneſley</hi> Eſquire, Sir <hi>Ro<g ref="char:EOLhyphen"/>bert King,</hi> Sir <hi>Robert Meredith,</hi> Knights, Colo<g ref="char:EOLhyphen"/>nell <hi>Iohn Moore,</hi> and Colonell <hi>Michaell Iones,</hi> do for, and in the behalfe of the Parliament of <hi>England,</hi> conclude agree, and undertake to and with the ſaid Lord Marques of <hi>Ormonde,</hi> That all Proteſtants whatſoever of the Kingdome of <hi>Ireland,</hi> not having been in the Iriſh Rebel<g ref="char:EOLhyphen"/>lion, who have any Eſtates, or Lands in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> though they have of late conſented, or ſubmitted, either to the Ceſſation of Armes, or the Peace concluded with the Iriſh Rebells, may compound for the ſame, at the rate of 2. yeeres profit, as they were before the begin<g ref="char:EOLhyphen"/>ing of theſe troubles, they ſubmitting to ſuch Ordinances of Parliament as all Perſons now compounding in <hi>England</hi> do ſubmit unto, Provided that they effectually proſecute the
+<pb n="5" facs="tcp:38247:4"/>ſame, within ſix moneths after the publication of this Article.</p>
+            <p n="4">4. <hi>Item</hi> It is agreed and concluded upon, and the ſaid <hi>Arthur Anneſley,</hi> 
+               <abbr>Eſq</abbr> Sir <hi>Robert King,</hi> Sir <hi>Robert Meredith,</hi> Knights, Colonell <hi>Iohn Moore,</hi> and Colonell <hi>Michael Iones,</hi> doe, for and in the behalf of the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> conclude agree and undertake, to and with the ſaid Lord Marques of <hi>Ormond,</hi> that ſuch as have come under contribution, and do now live in the Engliſh Quarters, and will continue payment of contribution, ſhall bee protected in their perſons and eſtates, aswell from the violence of the Souldiers under the Parliament, as of the enemy, And this to bee extended to all, without any diſtinction of offence or religion, and that they ſhall receive Safeguard, by the countenance of the Forces under the Parliament.</p>
+            <p n="5">5. <hi>Item</hi> It is agreed and concluded upon, and the ſaid <hi>Arthur Anneſley,</hi> 
+               <abbr>Eſq</abbr> Sir <hi>Robert
+<pb n="4" facs="tcp:38247:5"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:38247:5"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:38247:6"/>King,</hi> Sir <hi>Robert Meredith,</hi> Knights, Colonell <hi>Iohn Moore,</hi> and Colonell <hi>Michael Iones,</hi> doe for and in the behalfe of the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> conclude agree and undertake, to and with the ſaid Lord Marques of <hi>Ormond,</hi> that the ſaid Lord Marques ſhall enjoy his eſtate without moleſtation or diſturbance from the Parliament, and ſhall have indemnity againſt all debts contracted by reaſon of any goods, Money, debts or Victuals, taken up by vertue of any Warrant ſigned by him and the Coun<g ref="char:EOLhyphen"/>cell, from any perſon, for the maintenance and ſupport of the Army or any of the Garriſons now under his Lordſhips Command.</p>
+            <p n="6">6. <hi>Item</hi> It is agreed and concluded upon, and the ſaid <hi>Arthur Anneſley,</hi> 
+               <abbr>Eſq</abbr> Sir <hi>Robert King,</hi> Sir <hi>Robert Meredith,</hi> Knights, Colonell <hi>Iohn Moore,</hi> and Colonell <hi>Michael Iones,</hi> doe for &amp; in the behalfe of the Parliament of <hi>England,</hi> conclude agree and undertake, to and with the ſaid Lord Marques of <hi>Ormond,</hi> that he ſhal be protected in his perſon and goods, for the
+<pb n="7" facs="tcp:38247:6"/>ſpace of twelve Moneths, againſt all Suits, Arreſts, moleſtation, or diſturbance, from any perſon whatſoever, for any debt owing by him, to any perſon whatſoever, before the Rebellion in <hi>Ireland.</hi>
+            </p>
+            <p n="7">7. <hi>Item</hi> It is agreed and concluded, and the ſaid <hi>Arthur Anneſley,</hi> 
+               <abbr>Eſq</abbr> Sir <hi>Robert King,</hi> Sir <hi>Robert Meredith,</hi> Knights, Colonell <hi>Iohn Moore,</hi> and Colonell <hi>Michael Iones,</hi> doe for and in the behalfe of the Parliament of <hi>England,</hi> con<g ref="char:EOLhyphen"/>clude agree, and undertake, to, and with the ſaid Lord Marques of <hi>Ormond,</hi> that the ſaid Lord Marques, and all ſuch Noblemen Gen<g ref="char:EOLhyphen"/>tlemen, and Officers as ſhall be deſirous to go with him, or by themſelves, into any place out of <hi>Ireland,</hi> ſhall have free paſſes for themſelves, their Families, Goods, and traveling Armes, and a competent number of ſervants ſutable to their reſpective qualities, <hi>Provided,</hi> they de<g ref="char:EOLhyphen"/>mand the ſaid paſſes, within twenty dayes after the date of theſe Articles, and the ſaid
+<pb n="8" facs="tcp:38247:7"/>paſſes, are to be in force for three moneths, and no longer, after the date of the ſaid paſſes;</p>
+            <p n="8">8. <hi>Item</hi> It is agreed, and concluded, and the ſaid <hi>Arthur Anneſley,</hi> 
+               <abbr>Eſq</abbr> Sir <hi>Robert King,</hi> Sir <hi>Robert Meredith,</hi> Knights, Colonell <hi>Iohn Moore,</hi> and Colonell <hi>Michael Iones,</hi> doe for and in the behalf of the Parliament of <hi>England,</hi> conclude agree and undertake, to and with the ſaid Lord Marques of <hi>Ormonde,</hi> that he ſhall have liberty to come and live in <hi>England,</hi> with the like liberty that others have, he ſubmitting to all Ordinances of Parliament, and for the time of twelve moneths, ſhall not be preſt to any Oathes, he engaging his honour to doe no<g ref="char:EOLhyphen"/>thing in the meane time, that ſhall be diſſer<g ref="char:EOLhyphen"/>vice to the Parliament.</p>
+            <p n="9">9. <hi>Item</hi> Foraſmuch as in the ſixth Article of the ſaid Lord Marques of <hi>Ormonds</hi> additio<g ref="char:EOLhyphen"/>nall inſtructions, to Sir <hi>Gerrard Lowther,</hi> Sir <hi>Francis VVilloughby,</hi> and Sir <hi>Paul Davies,</hi> it is
+<pb n="9" facs="tcp:38247:7"/>affirmed by his Lordſhip, that the ſumme of thirteen thouſand eight hundred ſeaventy ſea<g ref="char:EOLhyphen"/>ven pounds, fourteen ſhillings nine pence, is leſſe then the ſumme disburſed by his Lord<g ref="char:EOLhyphen"/>ſhip, for the maintenance of the Garriſons of <hi>Dublin, Dundalke, Newry, Narrow-water, Green Caſtle,</hi> and (<hi>arlingford,</hi> which ſumme, upon Accompt, appeared to the Councell of this Kingdome and to us, by their Certificate, to be disburſed as aforeſaid; It is therefore concluded, and agreed, and the ſaid <hi>Arthur Anneſley,</hi> 
+               <abbr>Eſq</abbr> Sir <hi>Robert King,</hi> Sir <hi>Robert Me<g ref="char:EOLhyphen"/>redith,</hi> Knights, Colonell <hi>Iohn Moore,</hi> and Co<g ref="char:EOLhyphen"/>lonell <hi>Michael Iones,</hi> doe for, and in the behalfe of the Parliament of <hi>England,</hi> conclude agree, and undertake, to and with the ſaid Lord Marques, that upon performance of what is undertaken by his Lordſhip, he ſhall receive three thouſand pounds in money, to anſwer his occaſions, in, and untill, his Tranſportati<g ref="char:EOLhyphen"/>on, and likewiſe Bills of exchange: to be ac<g ref="char:EOLhyphen"/>cepted by ſufficient men in <hi>France,</hi> or <hi>Holland,</hi>
+               <pb n="10" facs="tcp:38247:8"/>to pay unto him, ten thouſand eight hundred ſeaventy ſeaven pounds fourteen ſhillings and nine pence, of currant money of and in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> either in Engliſh money, or ſuch other Coynes as ſhall be of equall value, or worth, as ſo much Engliſh money; To be paid to ſuch as his Lordſhip ſhall appoint, to wit the one halfe, at fifteen daies after ſight, and at ſix moneths the other halfe.</p>
+            <p n="10">10. <hi>Item</hi> It is agreed, &amp; concluded, and the ſaid <hi>Arthur Anneſley</hi> 
+               <abbr>Eſq</abbr> Sir <hi>Robert King</hi> Sir <hi>Robert Meredith</hi> Knights, Colonell <hi>Iohn Moore,</hi> and Colonell <hi>Michaell Iones,</hi> do for, and in the behalf of the Parliament of <hi>England,</hi> conclude agree, and undertake to &amp; with the ſaid Lord Marqueſſe of <hi>Ormonde,</hi> that there ſhall be Pen<g ref="char:EOLhyphen"/>ſions to ſuch as the ſaid Commiſsioners ſhall thinke fit, fourthwith aſcertaned, to the value of two thouſand pounds ſterling <hi>per annum,</hi> unto ſuch of the civill and Marſhall liſt, as alſo of the diſtreſſed Clergy as ſhall be thought
+<pb n="11" facs="tcp:38247:8"/>meet, to extend it too, in ſuch way as may give beſt ſatisfaction, theſe Penſions to conti<g ref="char:EOLhyphen"/>nue during the Warres, till they can receive the like benefit by their owne Eſtates.</p>
+            <p>And to the end, that upon publication of theſe Articles, the Popiſh Recuſants, Who have not aſſiſted nor adhered to the Rebellion in this Kingdome, may be incou<g ref="char:EOLhyphen"/>raged to continue in their habitations and in enjoyment of their Eſtates with confi<g ref="char:EOLhyphen"/>dence, It is declared by the ſaid <hi>Arthur Ann<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſley</hi> Eſquire, Sir <hi>Robert King,</hi> Sir <hi>Robert Meredith,</hi> Knights, Colonell <hi>Iohn Moore,</hi> and Colonell <hi>Michaell Iones,</hi> in behalfe of the Parliament of <hi>England</hi> that the ſaid Parliament will take them into conſideration for favour, ac<g ref="char:EOLhyphen"/>cording as they ſhall demeane themſelves, in this preſent Service; and thereof they are hereby aſſured: IN WITNESSE whereof, the ſaid Lord Marqueſſe of <hi>Ormonde,</hi> in behalfe of himſelfe and others
+<pb n="12" facs="tcp:38247:9"/>his Majeſties Subjects, and the ſaid <hi>Arthur Anneſley,</hi> Eſquire, Sir <hi>Robert King,</hi> Sir <hi>Robert Meredith,</hi> Knights, Colonell <hi>Iohn Moore,</hi> and Colonell <hi>Michael Iones,</hi> for, and in behalfe of the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England,</hi> have, to theſe Articles inter<g ref="char:EOLhyphen"/>changeably ſet their hands &amp; ſeals.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:38247:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
